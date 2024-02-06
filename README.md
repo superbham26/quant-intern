@@ -1,1 +1,2 @@
-# quant-intern
+# Quant - Intenrship
+I extensively worked with financial data, developing and backtesting diverse trading strategies based on moving averages and technical indicators for NIFTY and BANKNIFTY F&O data. I also adeptly analysed historical closing prices of 1102 NSE500 cash stocks, resulting in optimised portfolios with risk-adjusted returns for various time frames of RSI indicator. My formal approach and effective communication skills strengthened teamwork and contributed to a valuable learning experience, preparing me for a successful career in the financial industry.
